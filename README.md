@@ -17,10 +17,9 @@ Following Jupyter notebooks are provided publicly:
 If you find this code helpful, please cite our paper:
 
 ```bibtex
-@article{tareen2025odn,
-  title={Optimally Deep Networks - Adapting Model Depth to Datasets for Superior Efficiency},
+@article{tareen2025optimally,
+  title={Optimally Deep Networks--Adapting Model Depth to Datasets for Superior Efficiency},
   author={Tareen, Shaharyar Ahmed Khan and Tareen, Filza Khan},
-  journal={arXiv preprint arXiv:XXXX.YYYYY},
-  year={2025},
-  url={https://arxiv.org/abs/XXXX.YYYYY}
+  journal={arXiv preprint arXiv:2510.10764},
+  year={2025}
 }
