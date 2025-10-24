@@ -1,6 +1,6 @@
 # Optimally_Deep_Networks
 
-This repository contains the implementation of **Optimally Deep Networks (ODNs)** — A novel approach to train deep neural networks with only the **necessary depth** for a given task, reducing model size, FLOPs, and inference cost while maintaining competitive accuracy.
+This repository contains the implementation of the paper: **Optimally Deep Networks (ODNs)** — A novel approach to train deep neural networks with only the **necessary depth** for a given task, reducing model size, FLOPs, and inference cost while maintaining competitive accuracy.
 
 Following Jupyter notebooks are provided publicly:
 
